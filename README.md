@@ -16,7 +16,9 @@ and what it
 ````
 potentially will return
 ````
+### HOST
 
+Where is it hosted, on what accounts, how many different websites are used, what to watch
 ***
 
 <div align="center">Hope you had a good time here. If you liked the project, leave a ⭐ and visit <a href="https://github.com/ArziPL">my profile</a> to send feedback, check other projects, or make something cool together</p></div> 
