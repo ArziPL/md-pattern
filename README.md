@@ -1,24 +1,23 @@
-# <div align="center">Name of project</div>
+# <div align="center">chat-app</div>
 ### DESCRIPTION
 
-Description of project, what was the aim of it, why you did it, was it hard, what you learned
+Chat that uses Pusher Channels to handle real-time communication on a pub/sub basis. Created with create-t3-app, a lot of React dribbling was needed to make app work the way i wanted. (refs, flushSync, first tried Ably, then I found Pusher)
 
 ### USED TECHNOLOGIES
-Badges of used technologies from https://github.com/Ileriayo/markdown-badges
-<img src="link to badge"/> <img src="link to badge"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ### HOW TO
-Step by step
+Install dependencies
 ````
-how to run it
+npm install
 ````
-and what it 
+Then run and visit `localhost:3000`
 ````
-potentially will return
+npm run dev
 ````
 ### HOST
 
-Where is it hosted, on what accounts, how many different websites are used, what to watch
+Hosted on Vercel, default account
 ***
 
 <div align="center">Hope you had a good time here. If you liked the project, leave a ⭐ and visit <a href="https://github.com/ArziPL">my profile</a> to send feedback, check other projects, or make something cool together</p></div> 
